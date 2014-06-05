@@ -24,7 +24,7 @@ public class Menor {
 	
 	//Método que permite decolver el número mayor
 	public int menor(){
-		if(a<b) return a;
-		else return b;
+		if(a<b){ return a;}
+		else { return b;}
 	}
 }
